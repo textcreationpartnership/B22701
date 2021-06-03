@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding good and joyfull nevves from Hull Being, the faithfull and deserving service of Sir Iohn Hotham; who by reasom [sic] of some mutinous outrages committed by some Cavaleers, and for the avoiding of future mischiefs, burnt up the bordering and adjacent towns about Hull. Also, the desire of Sir Iohn Hotham, concerning the reparation of some losses; which he and some other captains in Hull sustained, by the insolent carriage of some Cavaleers. With the Parliaments answer to the said desires. Together with the project of the Earle of Lindsey, to raise forces in Lin in Norfolk; and the prohibition of the House of Parliament to the said county, forbidding them to obey the said summons, and raising of forces. Hen. Elsyng. Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22701</idno><idno type="EEBO-CITATION">99827977</idno>
+  <idno type="VID">207647</idno>
+  <idno type="EEBO-PROQUEST">2240922218</idno>
+  
+            <idno type="STC">Wing E3734B</idno>
+            <idno type="PROQUEST">99827977</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827977e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207647)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1925:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding good and joyfull nevves from Hull Being, the faithfull and deserving service of Sir Iohn Hotham; who by reasom [sic] of some mutinous outrages committed by some Cavaleers, and for the avoiding of future mischiefs, burnt up the bordering and adjacent towns about Hull. Also, the desire of Sir Iohn Hotham, concerning the reparation of some losses; which he and some other captains in Hull sustained, by the insolent carriage of some Cavaleers. With the Parliaments answer to the said desires. Together with the project of the Earle of Lindsey, to raise forces in Lin in Norfolk; and the prohibition of the House of Parliament to the said county, forbidding them to obey the said summons, and raising of forces. Hen. Elsyng. Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. Proceedings. 1642-08-12.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Cave,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 12. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Ordered that this be printed and published. Hen. Elsyng. Cler. Parl. D. Com.</note>
+                  <note>Copy closely cropped at head, possibly affecting pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hotham, John, --  Sir, d. 1645 Jan. 2 --  Early works to 1800.</term>
+               <term type="personal_name">Lindsey, Robert Bertie, --  Earl of, 1582-1642 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Hull (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207647:1"/>
+            <p> Exceeding Good and Joyfull NEVVES FROM HULL.</p>
+            <p>BEING, The faithfull and deserving Service of Sir <hi>Iohn Hotham;</hi> Who by reasom of some mutinous Outrages committed by some Cavaleers, and for the avoiding of future mischiefs, burnt up the border<g ref="char:EOLhyphen"/>ing and adjacent Towns about HULL.</p>
+            <p>Also, the desire of Sir <hi>Iohn Hotham,</hi> concerning the reparation of some losses, which He and some other Captains in <hi>Hull</hi> sustained, by the insolent carriage of some <hi>Cavaleers.</hi>
+            </p>
+            <p>
+               <hi>With the Parliaments Answer to the said Desires.</hi>
+            </p>
+            <p>Together with the Project of the Earle of <hi>Lindsey,</hi> to raise Forces in <hi>Lin</hi> in <hi>Norfolk;</hi> And the prohibition of the House of Parliament to the said County, for<g ref="char:EOLhyphen"/>bidding them to obey the said Summons, and raising of Forces.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Hen. Elsyng. Cler. Parl. D. Com.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON: Printed for <hi>Iohn Cave. August</hi> 12. 1642.</p>
+            <pb facs="tcp:207647:2"/>
+            <pb facs="tcp:207647:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:207647:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207647:3"/>
+            <head>Exceeding Good and Joyfull Newes from HULL.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He divisions, distractions, and distempers of these times, are many, mischie<g ref="char:EOLhyphen"/>vous, and dangerous; and every day, nay, almost eve<g ref="char:EOLhyphen"/>ry hour, doth make us experienced in new practises against the peace and quiet of this Nation. Neither hath the oppo<g ref="char:EOLhyphen"/>sition against this Kingdom, against the sedulous and vigilant endeavours of the Parliament, been hatched and fomented by the meaner sort, but even from many from whose counsels the distracted estate of this Nation ought to expect her secu<g ref="char:EOLhyphen"/>rity and preservation from ruine and de<g ref="char:EOLhyphen"/>struction. Yet, as yet their endeavours have been stifled in their infancie, and
+<pb facs="tcp:207647:4"/> although they shape their mischiefs with fair and specious pretences, yet hath the malignity of their actions been discove<g ref="char:EOLhyphen"/>red, and we hope that the same Almigh<g ref="char:EOLhyphen"/>ty providence which hath brought to light their dark actions, will for ever as<g ref="char:EOLhyphen"/>sist the Parliament in their endeavours, tending to the Reformation of Church and Common-wealth.</p>
+            <p>There came lately Letters from Sir <hi>John Hotham</hi> from <hi>Hull,</hi> to the Houses of Parliiment, wherein the said Sir <hi>John</hi> de<g ref="char:EOLhyphen"/>sired some choice Officers and men; and likewise monies forthwith to be sent, for the defence of the Town of <hi>Hull,</hi> because the Souldiers thereof had been somewhat mutinous.</p>
+            <p>Since that time, Sir <hi>John</hi> considering the manifold dangers that may be raised by reason of the harbour which the ma<g ref="char:EOLhyphen"/>lignant party might attain unto in the neighbouring Towns and Villages there adjacent, whether suspecting their fide<g ref="char:EOLhyphen"/>lity, or whether he was induced to that action by some reall danger then present,
+<pb facs="tcp:207647:4"/> which might spring from the Inhabi<g ref="char:EOLhyphen"/>tants, or others who might be harboured within those Towns, did burn up and utterly destroy all the adjacent Villages, and by that means hath endeavoured to stay and prevent all ensuing mischiefs which may be by those means set on foot or nursed up, to the danger and hazard of those parts of the Kingdome, and so by consequence to the perill of this Nation.</p>
+            <p>On <hi>Wednesday</hi> the 3. of <hi>August</hi> in the Evening, Sir <hi>John</hi> sent forth certain men to a small Town within 2. miles of him called <hi>Analby,</hi> where was divers Cavaleers who after a small skirmish, defeated the aforesaid Cavaleers, seized on their Maga<g ref="char:EOLhyphen"/>zine, took certain of them Prisoners, two onely being kild, who would not yeeld their Arma. The whole County of <hi>York</hi> were warned against the <hi>Thursday</hi> fol<g ref="char:EOLhyphen"/>lowing to bring in their strength both of Horse and Foot, where they should understand His Maj. pleasure therein.</p>
+            <p>Sir <hi>Iohns</hi> dwelling house, a little with<g ref="char:EOLhyphen"/>out <hi>Hull,</hi> and the dwelling houses of
+<pb facs="tcp:207647:5"/> some other Captains, who were imployed in the same trust and service with him in <hi>Hull,</hi> have been lately plundered and pillaged by the Cavaleers, and their goods and Cattle taken, driven, and carried away; he therfore desired the Commons that they would be pleased to take these things into their consideration, that they may have some allowance and satis<g ref="char:EOLhyphen"/>faction for their losses. As also, desiring that there might be some more moneys presently sent to him, by reason that the charge of his forces (with some exhibi<g ref="char:EOLhyphen"/>tionall allowance that he giveth to the poor of the Town, that by reason of these present troubles are destitute and void of means and trading) commeth and amounteth to sixe hundred pounds weekly, he having but two hundred pound in stock.</p>
+            <p>And also in the said Letters he desired that by reason of the former mutinous and outragious behaviour committed there, he might have a warrant to use Martiall Law amongst the Souldiers in
+<pb facs="tcp:207647:5"/> case if any disorders; But the Commons thought it not expedient, and therefore would not consent unto that, for that they had formerly declared it to be ille<g ref="char:EOLhyphen"/>gall to use Martiall Law, but they orde<g ref="char:EOLhyphen"/>red that in case the Souldiers should be any way mutinous or disorderly, or re<g ref="char:EOLhyphen"/>fuse to obey his Commands, they should receive such punishment as by the Com<g ref="char:EOLhyphen"/>mon Lawes of this Kingdome are pro<g ref="char:EOLhyphen"/>vided.</p>
+            <p>The Earl of <hi>Lindsey</hi> being appointed by His Majestie, Generall of the Kings forces for this present intention and pur<g ref="char:EOLhyphen"/>pose, did send a Captain to <hi>Lin</hi> in <hi>Nor<g ref="char:EOLhyphen"/>folk</hi> to beat up Drums for the speedy rai<g ref="char:EOLhyphen"/>sing of Voluntiers, with a pretence that they are raised for the safety and security of His Majesties Person, and both Houses of Parliament; whereupon it was Orde<g ref="char:EOLhyphen"/>red by the said House of Parliament, that the said Captain should be sent for as a Delinquent, and that the County should receive information from the House, not to raise any men under the aforesaid pre<g ref="char:EOLhyphen"/>tence,
+<pb facs="tcp:207647:6"/> nor to obey any of the like sum<g ref="char:EOLhyphen"/>mons whatsoever.</p>
+            <p>Also there was a report made to the High Court of Parliament that Sir <hi>Paul Harris</hi> and other Cavaleers in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Shropshire,</hi> hath withstood their Ordinance concerning the <hi>Militia,</hi> and committed many outrages, to the great grief and impoverishment of many of His Majesties loving and well-affected Subjects; Which the Lords taking into their Consideration, Ordered that the said Sir <hi>Paul</hi> should be sent for as a De<g ref="char:EOLhyphen"/>linquent, and some forces should be speedily convayed into those parts, for the suppression of the insolent behaviour of those (or the like) malignant spirits.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Ordered that this be printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen. Elsyng. Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:207647:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
